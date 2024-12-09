@@ -1,0 +1,6 @@
+.idea
+.scannerwork
+.vscode
+.env
+vendor
+*temp.*
